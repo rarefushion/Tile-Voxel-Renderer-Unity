@@ -1,0 +1,12 @@
+{
+  "name": "com.rarefushion.tilevoxelrendererunity",
+  "version": "1.0.0",
+  "displayName": "Tile Voxel Renderer",
+  "description": "Renders a tile based voxel chunk",
+  "unity": "2019.4",
+  "author": {
+    "name": "Galen Strother",
+	"email": "rarefushion@gmail.com",
+	"url": ""
+  }
+}
